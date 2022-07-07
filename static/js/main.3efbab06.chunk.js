@@ -62,7 +62,7 @@
                             className: "case-item",
                             children: [Object(d.jsx)("img", {
                                 className: "case-item__icon",
-                                src: "/assets/images/bank/".concat(t, ".png"),
+                                src: "gialinh12.github.io/lehoangvu/assets/images/bank/".concat(t, ".png"),
                                 alt: ""
                             }), Object(d.jsxs)("div", {
                                 children: [Object(d.jsx)("h3", {
@@ -152,7 +152,7 @@
                                 children: Object(d.jsx)("div", {
                                     className: "js-parallax",
                                     style: {
-                                        backgroundImage: "url(/assets/img/image_header.jpg)"
+                                        backgroundImage: "url(gialinh12.github.io/lehoangvu/assets/img/image_header.jpg)"
                                     }
                                 })
                             }), Object(d.jsxs)("div", {
@@ -165,7 +165,7 @@
                                             className: "header__photo",
                                             children: Object(d.jsx)("img", {
                                                 className: "header__photo-img",
-                                                src: "/assets/images/ntd.gif",
+                                                src: "gialinh12.github.io/lehoangvu/assets/images/ntd.gif",
                                                 alt: "Ho\xe0ng V\u0103n L\u0129nh"
                                             })
                                         }), Object(d.jsxs)("div", {
